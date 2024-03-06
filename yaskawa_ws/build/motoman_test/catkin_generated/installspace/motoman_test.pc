@@ -1,0 +1,8 @@
+prefix=/home/lab2004/yaskawa_ws/install
+
+Name: motoman_test
+Description: Description of motoman_test
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

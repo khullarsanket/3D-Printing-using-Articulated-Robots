@@ -1,0 +1,8 @@
+prefix=/home/lab2004/yaskawa_ws/devel
+
+Name: gp50_moveit_config
+Description: Description of gp50_moveit_config
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
