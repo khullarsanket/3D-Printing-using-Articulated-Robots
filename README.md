@@ -28,13 +28,6 @@ Proposes further research in simulating 3D concrete structure creation, leveragi
 
 
 
-## Installation and Usage
-Details on setting up the environment, deploying the custom MoveIt package, and executing the system for concrete 3D printing.
-
-## Contributions and License
-Guidelines for contributing to the project, and the license under which it is released.
-
-
 ![image](https://github.com/khullarsanket/3D-Printing-using-Articulated-Robots/assets/119709438/0ab8ccc9-c971-4b04-b980-bfe0f60e5d03)
 
 ![image](https://github.com/khullarsanket/3D-Printing-using-Articulated-Robots/assets/119709438/214177fe-e744-4304-b823-03ce84c2e057)
