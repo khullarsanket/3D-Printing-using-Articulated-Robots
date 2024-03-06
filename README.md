@@ -26,11 +26,12 @@ Proposes further research in simulating 3D concrete structure creation, leveragi
 - MoveIt
 - Rviz
 
+![image](https://github.com/khullarsanket/3D-Printing-using-Articulated-Robots/assets/119709438/0c6afa25-5a45-4f5c-90b4-bed67532b614)
 
 
-![image](https://github.com/khullarsanket/3D-Printing-using-Articulated-Robots/assets/119709438/0ab8ccc9-c971-4b04-b980-bfe0f60e5d03)
+![image](https://github.com/khullarsanket/3D-Printing-using-Articulated-Robots/assets/119709438/5149544f-dc08-4d59-862a-f4925be28f99)
 
-![image](https://github.com/khullarsanket/3D-Printing-using-Articulated-Robots/assets/119709438/214177fe-e744-4304-b823-03ce84c2e057)
+
 
 
 
